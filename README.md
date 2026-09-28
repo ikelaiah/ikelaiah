@@ -2,7 +2,7 @@
 
 I build **practical developer tools** around **data, databases, documentation, and Free Pascal**.
 
-I enjoy turning awkward problems; complicated SQL, repetitive tooling, numerical work, and documentation, into software that is easier to understand and use.
+I enjoy turning awkward problems — complicated SQL, repetitive tooling, numerical work, and documentation — into software that is easier to understand and use.
 
 **Current focus:** 🌱 [DocSprout](https://github.com/ikelaiah/docsprout) · 🔀 [ProcFlow](https://github.com/ikelaiah/ProcFlow) · ∑ [mathlib-fp](https://github.com/ikelaiah/mathlib-fp)
 

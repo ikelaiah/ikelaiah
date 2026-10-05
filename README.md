@@ -10,4 +10,4 @@ I enjoy turning awkward problems; complicated SQL, repetitive tooling, numerical
 
 Also interested in **Object Pascal / Free Pascal, SQL, Python, R, developer tooling, data engineering, and pragmatic software design**.
 
-📚 [Free Pascal Cookbook](https://github.com/ikelaiah/free-pascal-cookbook) · 🌐 [Project sites](https://ikelaiah.github.io/)
+📚 [Free Pascal Cookbook](https://github.com/ikelaiah/free-pascal-cookbook) · 🌐 [Project sites](https://github.com/ikelaiah)

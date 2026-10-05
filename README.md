@@ -6,6 +6,18 @@ I build **practical developer tools** around **data, databases, documentation, a
 
 I turn awkward problems — complicated SQL, repetitive tooling, numerical work, documentation — into software that's easier to understand and use. Also comfortable in **SQL, Python, and R**.
 
+## 🛠️ Tools you can use right now
+
+All five run in your browser — no install, no account, and nothing you enter leaves your machine.
+
+| | |
+| --- | --- |
+| **[SQL Cartographer](https://ikelaiah.github.io/sql-cartographer/)** | Turn SQL into control-flow and query-lineage diagrams. |
+| **[Git Map](https://ikelaiah.github.io/git-map/)** | A visual sandbox for learning Git — break things safely. |
+| **[Quiet Response](https://ikelaiah.github.io/quiet-response/)** | Private QR codes, generated entirely in your browser. |
+| **[Prompt Curtain](https://ikelaiah.github.io/prompt-curtain/)** | Mask personal details before pasting a prompt into an AI. |
+| **[First-Pass Triage](https://ikelaiah.github.io/first-pass-ticket-triage/)** | Suggest P1–P4 priority for support tickets, with reasons. |
+
 ## ⭐ Featured
 
 | Project | What it does |

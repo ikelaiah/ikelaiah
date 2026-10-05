@@ -1,43 +1,99 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title description">
-  <title id="title">Iwan Kelaiah</title>
-  <desc id="description">Iwan Kelaiah — practical developer tools, Free Pascal, and data engineering.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="500" viewBox="0 0 1500 500" role="img" aria-labelledby="title description">
+  <title id="title">Iwan Kelaiah — practical developer tools</title>
+  <desc id="description">Iwan Kelaiah's name beside connected terminal, database, and documentation illustrations on a deep navy background with blue and violet accents.</desc>
   <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#111a2d"/>
-      <stop offset="1" stop-color="#080d18"/>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#030916"/><stop offset=".5" stop-color="#091932"/><stop offset="1" stop-color="#18102e"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#67e8f9"/>
-      <stop offset="1" stop-color="#3b82f6"/>
+    <radialGradient id="blueHalo">
+      <stop stop-color="#174882" stop-opacity=".45"/><stop offset="1" stop-color="#174882" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="violetHalo">
+      <stop stop-color="#7044a9" stop-opacity=".25"/><stop offset="1" stop-color="#7044a9" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="brand" x2="1" y2="0">
+      <stop stop-color="#76dcff"/><stop offset=".55" stop-color="#85b6ff"/><stop offset="1" stop-color="#b7a0ff"/>
     </linearGradient>
-    <linearGradient id="accentRule" gradientUnits="userSpaceOnUse" x1="286" y1="0" x2="430" y2="0">
-      <stop offset="0" stop-color="#67e8f9"/>
-      <stop offset="1" stop-color="#3b82f6"/>
+    <linearGradient id="panel" x2="1" y2="1">
+      <stop stop-color="#132540"/><stop offset="1" stop-color="#0b1428"/>
     </linearGradient>
-    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
-      <path d="M24 0H0V24" fill="none" stroke="#8ba3c7" stroke-width="1" opacity=".055"/>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#89aeeb" stroke-opacity=".055"/>
     </pattern>
-    <clipPath id="frame">
-      <rect x="1" y="1" width="1198" height="298" rx="28"/>
-    </clipPath>
+    <clipPath id="frame"><rect x="1" y="1" width="1498" height="498" rx="24"/></clipPath>
   </defs>
+  <g clip-path="url(#frame)">
+    <path fill="url(#background)" d="M0 0H1500V500H0z"/>
+    <ellipse cx="1050" cy="255" rx="520" ry="360" fill="url(#blueHalo)"/>
+    <ellipse cx="1430" cy="150" rx="410" ry="350" fill="url(#violetHalo)"/>
+    <path fill="url(#grid)" d="M770 0H1500V500H770z"/>
+    <g fill="none" stroke="#729fe1" stroke-opacity=".09">
+      <circle cx="1114" cy="250" r="192"/><circle cx="1114" cy="250" r="233"/>
+      <path d="M790 250H1460M1114 30V470"/>
+    </g>
+  </g>
+  <rect x="1" y="1" width="1498" height="498" rx="24" fill="none" stroke="#253653"/>
 
-  <rect x="1" y="1" width="1198" height="298" rx="28" fill="url(#background)" stroke="#263653" stroke-width="2"/>
-  <rect x="920" y="1" width="279" height="298" fill="url(#grid)" clip-path="url(#frame)"/>
-
-  <g transform="translate(56 66)">
-    <rect width="168" height="168" rx="34" fill="url(#accent)"/>
-    <text x="84" y="112" text-anchor="middle" fill="#0b1220"
-          font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif"
-          font-size="72" font-weight="700" letter-spacing="-2">IK</text>
+  <!-- Identity and copy stay clear of the illustration at README widths. -->
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <g transform="translate(76 68)">
+      <rect width="52" height="52" rx="14" fill="#10243a" stroke="#335875"/>
+      <text x="26" y="34" text-anchor="middle" fill="#8eddff" font-size="22" font-weight="700">IK</text>
+      <text x="70" y="33" fill="#9aaec9" font-size="17" font-weight="600" letter-spacing="3">IKELAIAH / GITHUB</text>
+    </g>
+    <text x="72" y="222" fill="#f2f6ff" font-size="88" font-weight="700" letter-spacing="-3">Iwan Kelaiah<tspan fill="#85cfff">.</tspan></text>
+    <text x="77" y="276" fill="url(#brand)" font-size="32" font-weight="600" letter-spacing="-.4">Practical developer tools.</text>
+    <text x="78" y="317" fill="#a5b7d0" font-size="22">Making complex work easier to understand.</text>
+    <g transform="translate(78 375)" font-size="17" font-weight="600">
+      <rect width="154" height="38" rx="19" fill="#0c2236" stroke="#244a64"/>
+      <text x="77" y="25" text-anchor="middle" fill="#8ddaff">Free Pascal</text>
+      <rect x="168" width="92" height="38" rx="19" fill="#102039" stroke="#2b4569"/>
+      <text x="214" y="25" text-anchor="middle" fill="#a6c9ff">Data</text>
+      <rect x="274" width="178" height="38" rx="19" fill="#1b1c37" stroke="#423b65"/>
+      <text x="363" y="25" text-anchor="middle" fill="#c8b8ff">Documentation</text>
+    </g>
   </g>
 
-  <g font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif">
-    <text x="284" y="146" fill="#f8fafc" font-size="76" font-weight="700" letter-spacing="-2">Iwan <tspan fill="#67e8f9">Kelaiah</tspan></text>
-    <text x="288" y="192" fill="#a8b5ca" font-size="17" font-weight="600" letter-spacing="2.4">PRACTICAL DEVELOPER TOOLS &#183; FREE PASCAL &#183; DATA</text>
+  <!-- Three disciplines joined by a single flow. -->
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M1052 186H1114V321H1186M1114 186V140H1210" stroke="#091427" stroke-width="10"/>
+    <path d="M1052 186H1114V321H1186" stroke="#74bbf5" stroke-width="2.5"/>
+    <path d="M1114 186V140H1210" stroke="#ac99ed" stroke-width="2.5"/>
+    <circle cx="1114" cy="186" r="7" fill="#0c1a31" stroke="#9ecbff" stroke-width="2"/>
+    <circle cx="1114" cy="260" r="4" fill="#83cbff" stroke="none"/>
   </g>
 
-  <path d="M286 228H1120" stroke="#263653" stroke-width="2"/>
-  <path d="M286 228H430" stroke="url(#accentRule)" stroke-width="3" stroke-linecap="round"/>
-  <circle cx="1120" cy="228" r="3" fill="#67e8f9" opacity=".8"/>
+  <!-- Terminal -->
+  <g transform="translate(840 118)">
+    <rect y="8" width="214" height="154" rx="16" fill="#020917" opacity=".35"/>
+    <rect width="214" height="154" rx="16" fill="url(#panel)" stroke="#3d6089"/>
+    <path d="M1 36H213" stroke="#2c4667"/>
+    <g fill="#567294"><circle cx="19" cy="19" r="3"/><circle cx="32" cy="19" r="3"/><circle cx="45" cy="19" r="3"/></g>
+    <path d="M28 62L43 75L28 88M54 88H80" fill="none" stroke="#82dbff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <g stroke-linecap="round" stroke-width="5">
+      <path d="M28 111H94" stroke="#5f89ba"/><path d="M108 111H150" stroke="#a396dc"/>
+      <path d="M28 129H68M82 129H126" stroke="#395778"/>
+    </g>
+  </g>
+
+  <!-- Database -->
+  <g transform="translate(1210 87)" fill="url(#panel)" stroke="#a497db" stroke-width="2">
+    <path d="M0 19V86C0 112 126 112 126 86V19"/>
+    <path d="M0 51C0 77 126 77 126 51M0 82C0 108 126 108 126 82" fill="none" stroke="#786fa7"/>
+    <ellipse cx="63" cy="19" rx="63" ry="19" fill="#252643"/>
+    <path d="M25 18C42 10 84 10 102 18" fill="none" stroke="#c2b3f5" stroke-linecap="round"/>
+  </g>
+
+  <!-- Documentation -->
+  <g transform="translate(1186 250)">
+    <rect y="8" width="170" height="163" rx="16" fill="#020917" opacity=".35"/>
+    <rect width="170" height="163" rx="16" fill="url(#panel)" stroke="#496590"/>
+    <path d="M24 31H84" stroke="#9fc9ff" stroke-width="6" stroke-linecap="round"/>
+    <g stroke="#52739c" stroke-width="4" stroke-linecap="round"><path d="M24 52H144M24 69H120M24 86H134"/></g>
+    <rect x="20" y="106" width="130" height="37" rx="8" fill="#09182b" stroke="#253e5e"/>
+    <path d="M49 117L40 125L49 133M120 117L129 125L120 133M91 115L81 135" fill="none" stroke="#8ccff4" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g fill="#8cb5ec">
+    <circle cx="898" cy="338" r="3" opacity=".6"/><circle cx="1373" cy="232" r="3" opacity=".6"/><circle cx="1164" cy="66" r="2" opacity=".5"/>
+  </g>
 </svg>

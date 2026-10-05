@@ -6,17 +6,13 @@ I build **practical developer tools** around **data, databases, documentation, a
 
 I turn awkward problems — complicated SQL, repetitive tooling, numerical work, documentation — into software that's easier to understand and use. Also comfortable in **SQL, Python, and R**.
 
-## 🌱 Currently building
-
-**[SQL Cartographer](https://github.com/ikelaiah/sql-cartographer)** · **[DocSprout](https://github.com/ikelaiah/docsprout)** · **[mathlib-fp](https://github.com/ikelaiah/mathlib-fp)**
-
 ## ⭐ Featured
 
 | Project | What it does |
 | --- | --- |
 | **[SQL Cartographer](https://github.com/ikelaiah/sql-cartographer)** | Paste SQL source, get a control-flow or query-lineage diagram. Runs entirely in the browser — no install, no database connection. |
-| **[cli-fp](https://github.com/ikelaiah/cli-fp)** | A framework for building professional CLI apps in Free Pascal: hierarchical commands, rich help, and interactive prompts. |
-| **[duckdb-fp](https://github.com/ikelaiah/duckdb-fp)** | A clean DuckDB wrapper with DataFrame-style results and CSV/Parquet round-tripping. |
+| **[DocSprout](https://github.com/ikelaiah/docsprout)** | An offline-friendly Markdown documentation-site builder: search, themes, audits, versioned docs, and GitHub Pages publishing. |
+| **[mathlib-fp](https://github.com/ikelaiah/mathlib-fp)** | A focused math library for Free Pascal — scientific, statistics, optimisation, time-series, machine learning, and geometry. |
 
 ## 📦 Free Pascal libraries
 

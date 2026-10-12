@@ -2,42 +2,38 @@
 
 # Hi, I'm Iwan 👋
 
-I build **practical developer tools** around **data, databases, documentation, and Free Pascal**.
+I build **pragmatic developer tools** that make complex systems easier to understand, maintain, and use — from enterprise integrations and SQL analysis to documentation and Free Pascal libraries.
 
-I turn awkward problems — complicated SQL, repetitive tooling, numerical work, documentation — into software that's easier to understand and use. Also comfortable in **SQL, Python, and R**.
+I work with **Free Pascal, Python, SQL, R, and modern web technologies**.
 
-## 🛠️ Tools you can use right now
+## 🗺️ Currently building
 
-All five run in your browser — no install, no account, and nothing you enter leaves your machine.
+**[Integration Atlas](https://github.com/ikelaiah/integration-atlas)** — Map dependencies across scripts, databases, files and APIs, with evidence-backed relationships and change-impact analysis. Local-first by design.
 
-| | |
-| --- | --- |
-| **[SQL Cartographer](https://ikelaiah.github.io/sql-cartographer/)** | Turn SQL into control-flow and query-lineage diagrams. |
-| **[Git Map](https://ikelaiah.github.io/git-map/)** | A visual sandbox for learning Git — break things safely. |
-| **[Quiet Response](https://ikelaiah.github.io/quiet-response/)** | Private QR codes, generated entirely in your browser. |
-| **[Prompt Curtain](https://ikelaiah.github.io/prompt-curtain/)** | Mask personal details before pasting a prompt into an AI. |
-| **[First-Pass Triage](https://ikelaiah.github.io/first-pass-ticket-triage/)** | Suggest P1–P4 priority for support tickets, with reasons. |
+## 🛠️ Try my browser tools
 
-## ⭐ Featured
+No installation or account required. These tools process your inputs in the browser.
 
-| Project | What it does |
-| --- | --- |
-| **[SQL Cartographer](https://github.com/ikelaiah/sql-cartographer)** | Paste SQL source, get a control-flow or query-lineage diagram. Runs entirely in the browser — no install, no database connection. |
-| **[DocSprout](https://github.com/ikelaiah/docsprout)** | An offline-friendly Markdown documentation-site builder: search, themes, audits, versioned docs, and GitHub Pages publishing. |
-| **[mathlib-fp](https://github.com/ikelaiah/mathlib-fp)** | A focused math library for Free Pascal — scientific, statistics, optimisation, time-series, machine learning, and geometry. |
+- **[SQL Cartographer](https://ikelaiah.github.io/sql-cartographer/)** — Explore SQL control flow, dependencies, lineage and ERDs.
+- **[Git Map](https://ikelaiah.github.io/git-map/)** — Learn Git branching, merging and recovery in a visual sandbox.
+- **[PromptCurtain](https://ikelaiah.github.io/prompt-curtain/)** — Mask sensitive details before sharing prompts with AI.
+- **[First-Pass Triage](https://ikelaiah.github.io/first-pass-ticket-triage/)** — Get explainable P1–P4 suggestions for support tickets.
+- **[Quiet Response](https://ikelaiah.github.io/quiet-response/)** — Generate custom QR codes privately.
 
 ## 📦 Free Pascal libraries
 
-**Core** — [cli-fp](https://github.com/ikelaiah/cli-fp) · [duckdb-fp](https://github.com/ikelaiah/duckdb-fp) · [threadpool-fp](https://github.com/ikelaiah/threadpool-fp) · [threadsafecollections-fp](https://github.com/ikelaiah/threadsafecollections-fp)
+**Core & data** — [cli-fp](https://github.com/ikelaiah/cli-fp) · [duckdb-fp](https://github.com/ikelaiah/duckdb-fp) · [mathlib-fp](https://github.com/ikelaiah/mathlib-fp) · [threadpool-fp](https://github.com/ikelaiah/threadpool-fp) · [threadsafecollections-fp](https://github.com/ikelaiah/threadsafecollections-fp)
 
 **Utilities** — [toml-fp](https://github.com/ikelaiah/toml-fp) · [dotenv-fp](https://github.com/ikelaiah/dotenv-fp) · [simplejson-fp](https://github.com/ikelaiah/simplejson-fp) · [simplelog-fp](https://github.com/ikelaiah/simplelog-fp) · [chronokit-fp](https://github.com/ikelaiah/chronokit-fp) · [stringkit-fp](https://github.com/ikelaiah/stringkit-fp) · [request-fp](https://github.com/ikelaiah/request-fp)
 
-## 📚 Writing & docs
+## 📚 Documentation & learning
 
-**[Free Pascal Cookbook](https://github.com/ikelaiah/free-pascal-cookbook)** — practical, tested recipes for Object Pascal.
+**[DocSprout](https://github.com/ikelaiah/docsprout)** — Build polished documentation sites from Markdown.
 
-**[pasweave](https://github.com/ikelaiah/pasweave)** — a documentation generator for Free Pascal projects.
+**[PasWeave](https://github.com/ikelaiah/pasweave)** — Generate API documentation from Pascal source.
 
-## 🤝 Reach me
+**[Free Pascal Cookbook](https://github.com/ikelaiah/free-pascal-cookbook)** — Learn Object Pascal through practical examples.
 
-Open to collaborating on Pascal tooling and data projects → **[LinkedIn](https://www.linkedin.com/in/ikelaiah/)**
+## 🤝 Connect
+
+Open to collaborating on developer tools, data projects and Free Pascal → **[LinkedIn](https://www.linkedin.com/in/ikelaiah/)**

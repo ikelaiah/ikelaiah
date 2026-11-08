@@ -4,7 +4,7 @@
 
 I build **pragmatic developer tools** that make complex systems easier to understand, maintain, and use — from enterprise integrations and SQL analysis to documentation and Free Pascal libraries.
 
-I work with **Free Pascal, Python, SQL, R, and modern web technologies**.
+I work with **Free Pascal, Python, SQL, R, and HTML/CSS/JavaScript**.
 
 ## 🗺️ Currently building
 
@@ -12,7 +12,7 @@ I work with **Free Pascal, Python, SQL, R, and modern web technologies**.
 
 ## 🛠️ Try my browser tools
 
-No installation or account required. These tools process your inputs in the browser.
+No installation, no account — and your data never leaves your browser.
 
 - **[SQL Cartographer](https://ikelaiah.github.io/sql-cartographer/)** — Explore SQL control flow, dependencies, lineage and ERDs.
 - **[Git Map](https://ikelaiah.github.io/git-map/)** — Learn Git branching, merging and recovery in a visual sandbox.
@@ -22,17 +22,31 @@ No installation or account required. These tools process your inputs in the brow
 
 ## 📦 Free Pascal libraries
 
-**Core & data** — [cli-fp](https://github.com/ikelaiah/cli-fp) · [duckdb-fp](https://github.com/ikelaiah/duckdb-fp) · [mathlib-fp](https://github.com/ikelaiah/mathlib-fp) · [threadpool-fp](https://github.com/ikelaiah/threadpool-fp) · [threadsafecollections-fp](https://github.com/ikelaiah/threadsafecollections-fp)
+Zero third-party runtime dependencies, tested on Windows and Linux. The most-used are pinned below.
 
-**Utilities** — [toml-fp](https://github.com/ikelaiah/toml-fp) · [dotenv-fp](https://github.com/ikelaiah/dotenv-fp) · [simplejson-fp](https://github.com/ikelaiah/simplejson-fp) · [simplelog-fp](https://github.com/ikelaiah/simplelog-fp) · [chronokit-fp](https://github.com/ikelaiah/chronokit-fp) · [stringkit-fp](https://github.com/ikelaiah/stringkit-fp) · [request-fp](https://github.com/ikelaiah/request-fp)
+**Build an app**
+- [cli-fp](https://github.com/ikelaiah/cli-fp) — command trees, validated options, generated help
+- [toml-fp](https://github.com/ikelaiah/toml-fp) — TOML 1.1 parsing and writing
+- [dotenv-fp](https://github.com/ikelaiah/dotenv-fp) — `.env` loading with typed, validated settings
+- [request-fp](https://github.com/ikelaiah/request-fp) — memory-safe HTTP client
+- [simplelog-fp](https://github.com/ikelaiah/simplelog-fp) — console and file logging with rotation
+
+**Data & concurrency**
+- [mathlib-fp](https://github.com/ikelaiah/mathlib-fp) — numerical computing across 13 domains
+- [duckdb-fp](https://github.com/ikelaiah/duckdb-fp) — DuckDB from Free Pascal
+- [simplejson-fp](https://github.com/ikelaiah/simplejson-fp) — JSON with automatic memory management
+- [threadpool-fp](https://github.com/ikelaiah/threadpool-fp) — thread pool for parallel work
+- [threadsafecollections-fp](https://github.com/ikelaiah/threadsafecollections-fp) — thread-safe lists, maps and queues
+
+**Helpers**
+- [stringkit-fp](https://github.com/ikelaiah/stringkit-fp) — validation, casing, similarity and formatting for strings
+- [chronokit-fp](https://github.com/ikelaiah/chronokit-fp) — dates, business days and time zones
 
 ## 📚 Documentation & learning
 
-**[DocSprout](https://github.com/ikelaiah/docsprout)** — Build polished documentation sites from Markdown.
-
-**[PasWeave](https://github.com/ikelaiah/pasweave)** — Generate API documentation from Pascal source.
-
-**[Free Pascal Cookbook](https://github.com/ikelaiah/free-pascal-cookbook)** — Learn Object Pascal through practical examples.
+- **[DocSprout](https://github.com/ikelaiah/docsprout)** — Build polished documentation sites from Markdown.
+- **[PasWeave](https://github.com/ikelaiah/pasweave)** — Generate API documentation from Pascal source.
+- **[Free Pascal Cookbook](https://ikelaiah.github.io/free-pascal-cookbook/)** — Learn Object Pascal through practical examples.
 
 ## 🤝 Connect
 

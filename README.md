@@ -19,6 +19,7 @@ No installation, no account — and your data never leaves your browser.
 - **[PromptCurtain](https://ikelaiah.github.io/prompt-curtain/)** — Mask sensitive details before sharing prompts with AI.
 - **[First-Pass Triage](https://ikelaiah.github.io/first-pass-ticket-triage/)** — Get explainable P1–P4 suggestions for support tickets.
 - **[Quiet Response](https://ikelaiah.github.io/quiet-response/)** — Generate custom QR codes privately.
+- **[Airgap Table](https://ikelaiah.github.io/airgap-table/)** — Create, edit and tidy up Markdown tables securely.
 
 ## 📦 Free Pascal libraries
 
